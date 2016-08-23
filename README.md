@@ -1,0 +1,2 @@
+# FSkycoin
+skycoin
